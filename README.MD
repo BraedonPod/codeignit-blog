@@ -1,3 +1,1 @@
-https://bootswatch.com/yeti/
-
-https://tkmh.me/
+Super old codeigniter project
